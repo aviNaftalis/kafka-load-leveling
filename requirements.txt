@@ -1,0 +1,2 @@
+kafka-python>=2.2.0   # pure Python — installs on any Python, no compiler/wheels
+matplotlib>=3.7       # optional, only for the chart; the demo prints results too

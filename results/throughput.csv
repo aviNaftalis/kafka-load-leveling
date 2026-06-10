@@ -1,0 +1,11 @@
+mode,work_ms,events_per_sec
+kafka,0,7329.6
+naive,0,2197923.8
+kafka,1,9079.4
+naive,1,283.1
+kafka,2,9214.7
+naive,2,151.2
+kafka,5,8849.3
+naive,5,64.4
+kafka,10,9346.2
+naive,10,32.6
