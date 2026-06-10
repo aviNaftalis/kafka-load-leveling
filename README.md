@@ -6,8 +6,6 @@
   levels load by decoupling a fast producer from slow, spiky, or flaky consumers.
 </p>
 
-<p align="center"><sub><b>No Docker — just Java + Python.</b></sub></p>
-
 ---
 
 Concrete case: an online store's **checkout**. Each order must update
